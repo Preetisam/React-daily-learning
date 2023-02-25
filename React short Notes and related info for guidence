@@ -1,0 +1,40 @@
+//Refer official docs first https://reactjs.org/
+
+1) Introduction to React:
+React is a popular open-source JavaScript library used for building user interfaces (UIs) for web applications. It was created by Facebook in 2011 and has since gained immense popularity among developers worldwide. React allows developers to build complex and interactive UIs with ease, making it a preferred choice for building modern web applications.
+
+2) React Components:
+The basic building block of a React application is a component. A component is a reusable piece of code that encapsulates the UI logic and behavior. React components can be classified into two categories: functional components and class components. Functional components are simpler to write and understand, while class components are more powerful and offer more features.
+
+3) JSX:
+JSX is a syntax extension to JavaScript used in React to define the UI components. It allows developers to write HTML-like syntax in JavaScript, making it easier to visualize and understand the component structure.
+ 
+=> Note : for more info Read Article :  https://kamilapreetisamuel.hashnode.dev/what-is-jsx 
+                                      https://kamilapreetisamuel.hashnode.dev/can-we-use-jsx-without-using-react
+ 
+4) Virtual DOM:
+The Virtual DOM (Document Object Model) is a lightweight representation of the actual DOM that React uses for rendering components. React compares the previous and current states of the Virtual DOM to determine the minimal set of changes needed to update the actual DOM. This makes React applications faster and more efficient than traditional web applications.
+ 
+=> Note : for more info Read Article : https://kamilapreetisamuel.hashnode.dev/what-is-a-virtual-dom-and-why-is-it-used-in-librariesframeworks
+ 
+5) State and Props:
+State and props are two fundamental concepts in React that are used to manage the data and behavior of components. State is used to store data that can be changed over time, while props are used to pass data from one component to another. Components can update their state and re-render themselves when the state changes.
+
+=> Note : for more info Read Article : https://kamilapreetisamuel.hashnode.dev/two-ways-to-manage-state-in-react-usestate-and-setstate
+
+6) React Hooks:
+React Hooks are a new addition to React that allow developers to use state and other React features without writing a class. Hooks provide a way to reuse stateful logic, making components more modular and easier to understand.
+
+7) Redux:
+Redux is a state management library that is commonly used in large-scale React applications. It provides a predictable way to manage application state, making it easier to debug and test React applications.
+
+=> Note : for more info Read Article :  https://kamilapreetisamuel.hashnode.dev/redux
+
+8) React Router:
+React Router is a popular library used for client-side routing in React applications. It allows developers to create routes and navigate between different pages without reloading the entire page.
+
+9) Server-Side Rendering:
+Server-Side Rendering (SSR) is a technique used to render React components on the server instead of the client. SSR can improve the performance and search engine optimization (SEO) of React applications, making them faster and more discoverable.
+
+Conclusion:
+React is a powerful and popular library for building modern web applications. It provides a simple and efficient way to create complex and interactive UIs, making it a preferred choice for developers worldwide. With its ecosystem of libraries and tools, React has become a go-to technology for building scalable and maintainable web applications.
