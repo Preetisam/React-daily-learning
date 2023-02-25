@@ -11,4 +11,4 @@ function App() {
 }
 export default App;
 
-//call the function from the parent to child this case is done when the childe is in  the loop component were we are calling the child contiously
+//call the function from the parent to child this case is done when the child is in  the loop component were we are calling the child contiously
