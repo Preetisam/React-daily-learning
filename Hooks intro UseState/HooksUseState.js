@@ -1,5 +1,9 @@
 import React, { useState } from "react";
-//UseEffect
+//Intro to HOOKS
+
+//here use state is the hook
+
+//useEfeect is used for the lifecycle methods
 
 import "./App.css";
 function App() {
